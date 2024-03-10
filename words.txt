@@ -1,0 +1,15 @@
+phone
+headphones
+mouse
+cat
+computer
+intellij
+microphone
+screen
+keyboard
+cable
+controller
+software
+battery
+charger
+processor
